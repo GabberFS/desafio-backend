@@ -13,7 +13,7 @@
                 <!-- Logo e Links (Desktop) -->
                 <div class="flex items-center">
                     <a href="{{ route('movies.index') }}" class="flex items-center">
-                        <img src="{{ asset('images/gd.svg') }}" alt="GD Logo" class="h-8 w-8 text-green-400 hover:text-green-500 transition-colors duration-300" />
+                        <img src="{{ asset('images/gd.svg') }}" alt="GD Logo" class="h-5 w-5 text-green-400 hover:text-green-500 transition-colors duration-300" />
                     </a>
 
                     <div class="hidden md:flex items-center ml-10 space-x-4">

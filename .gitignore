@@ -18,14 +18,3 @@ yarn-error.log
 /.idea
 /.vscode
 
-# SQLite
-/database/*.sqlite
-/database/*.sqlite-journal
-
-# Arquivos de sistema
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
