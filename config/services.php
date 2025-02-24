@@ -31,4 +31,9 @@ return [
         ],
     ],
 
+    'omdb' => [
+        'key' => env('OMDB_API_KEY', ''),
+        'url' => 'http://www.omdbapi.com',
+    ],
+
 ];
